@@ -1,20 +1,18 @@
-## Hi there 👋
-
 # Olá, eu sou a Vanessa! 👋
 
 <img src="./generation-7424150e-aa2f-4db3-b0ad-f9a9a52f40bc.png" width="250" align="right">
 
-## 🛡️ Analista de QA em Formação | Python & Software Testing
+## 🔍 Analista de QA em Formação | Python & Software Testing
 
-Sou uma entusiasta da tecnologia que decidiu parar de sonhar e começar a realizar. Atualmente, foco meus estudos em **Qualidade de Software** e **Python**, buscando sempre a lógica por trás de cada bug.
+Sou focada em transição de carreira para a área de tecnologia, com objetivo central em **Qualidade de Software**. Documento aqui minha evolução prática, meus estudos de lógica e minha capacidade de resolver problemas.
 
-### 🚀 Sobre mim:
-* 🧊 **Mindset:** "Mente de Gelo" para resolver problemas e encontrar falhas.
-* 🧠 **Foco:** Aprendizado contínuo através da prática diária e lógica aplicada.
-* 🛠️ **Ferramentas:** Python, Lógica de Programação e Metodologias de QA.
+### 📚 O que estou estudando:
+* 🛠️ **Qualidade de Software (QA):** Processos de teste e garantia de funcionalidade.
+* 🐍 **Python:** Lógica de programação e automação de tarefas.
+* 📈 **Metodologias:** Organização de portfólio e documentação técnica.
 
-### 📈 Minha Jornada:
-Estou documentando minha evolução diária aqui no GitHub. Acredito que a transparência no aprendizado é o que constrói uma profissional sólida.
+### 📱 Diferencial Mobile
+Todo o meu aprendizado, código e este portfólio estão sendo desenvolvidos **100% via dispositivo móvel**. Minha jornada prova que a vontade de aprender e a adaptabilidade superam qualquer barreira técnica.
 
 ---
-"Um bug nunca é maior que a minha vontade de aprender."
+"Foco na solução e aprendizado constante."
